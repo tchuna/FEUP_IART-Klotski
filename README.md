@@ -1,1 +1,1 @@
-# FEUP_IART-Klotski
+# IART-Klotski
